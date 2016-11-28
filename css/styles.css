@@ -2,7 +2,7 @@ body {
   width: 100%;
   background-image: url("img/IMG_4175.jpg");
   background-repeat: no-repeat;
-  background-position: top,left;
+  background-position: top,left, right;
   background-size: 100%;
   font-family: 'Lato', sans-serif;
   color: white;
