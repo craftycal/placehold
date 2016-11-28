@@ -1,0 +1,31 @@
+body {
+  width: 100%;
+  background-image: url("img/IMG_4175.jpg");
+  background-repeat: no-repeat;
+  background-position: top,left;
+  background-size: 100%;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 5.2vw;
+  font-weight: normal;
+}
+
+p {
+  color: #A0A0A0;
+  font-size: 0.9vw;
+  text-transform: uppercase;
+  font-weight: lighter;
+  margin: 2px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+
+}
+
+.content {
+  margin-top: 40px;
+  padding: 20px;
+}
