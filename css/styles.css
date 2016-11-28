@@ -4,16 +4,14 @@ html {
 }
 
 body {
-  height: 100%;
-  background-color: blue;
+  width: 100%;
   background-image: url("../img/IMG_4175.jpg");
   background-repeat: no-repeat;
-  background-position: top, bottom;
+  background-position: center;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: cover;
   font-family: 'Lato', sans-serif;
   overflow: hidden;
-  background-color: #222;
 }
 
 h1 {
@@ -44,13 +42,4 @@ footer {
   left: 0;
   right: 0;
   bottom: 0;
-}
-
-
-@media only screen and (max-width: 600px) {
-
-
-  body {
-    background-size: auto 100%;
-  }
 }
